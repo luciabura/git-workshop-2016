@@ -1,3 +1,3 @@
-Bob made Alice a fork 
+Bob made Alice fork 
 Alice is now a forkful spoon 
 Potato is eaten 
